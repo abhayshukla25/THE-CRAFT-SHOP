@@ -1,0 +1,41 @@
+[{
+  "_id": {
+    "$oid": "5eee651f739f8c674fd736ee"
+  },
+  "name": "Flower Vase",
+  "image": "flower_vase.png",
+  "price": "250",
+  "size": "small"
+},{
+  "_id": {
+    "$oid": "5eee6671a27a66807cf2bea3"
+  },
+  "name": "Table Mat",
+  "image": "table_mat.png",
+  "price": "300",
+  "size": "medium"
+},{
+  "_id": {
+    "$oid": "5eee6692a27a66807cf2bea4"
+  },
+  "name": "Wooden Serving Tray",
+  "image": "tray.png",
+  "price": "200",
+  "size": "small"
+},{
+  "_id": {
+    "$oid": "5eee66a5a27a66807cf2bea5"
+  },
+  "name": "Wooden bags",
+  "image": "wooden_bags.png",
+  "price": "500",
+  "size": "large"
+},{
+  "_id": {
+    "$oid": "5eee66c4a27a66807cf2bea6"
+  },
+  "name": "Wooden Craft",
+  "image": "Wooden_craft",
+  "price": "350",
+  "size": "medium"
+}]
