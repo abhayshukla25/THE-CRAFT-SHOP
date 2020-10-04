@@ -5,7 +5,7 @@
   "name": "Flower Vase",
   "image": "flower_vase.png",
   "price": "250",
-  "size": "small"
+  "size": "large"
 },{
   "_id": {
     "$oid": "5eee6671a27a66807cf2bea3"
